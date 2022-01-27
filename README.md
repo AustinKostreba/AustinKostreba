@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AustinKostreba
+- 👀 I’m interested in front end development.
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on anything js/ts related!
+- 📫 How to reach me
+  - Twitter: [@austinkostreba](https://twitter.com/austinkostreba)
+  - My website: [austinkostreba.com](https://austinkostreba.com)
