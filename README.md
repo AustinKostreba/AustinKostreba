@@ -1,6 +1,1 @@
 - 👋 Hi, I’m @AustinKostreba
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on anything js/ts related!
-- 📫 How to reach me
-  - Twitter: [@austinkostreba](https://twitter.com/austinkostreba)
